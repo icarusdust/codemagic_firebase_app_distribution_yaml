@@ -68,7 +68,7 @@ workflows:
       firebase:
         firebase_token: Encrypted(...)
         android:
-          app_id: 1:576069540849:android:6af0d182c4d0302e530250
+          app_id: x:xxxxxxxxxxxx:android:xxxxxxxxxxxxxxxxxxxxxx
           groups: 
             - androidTesters
 
