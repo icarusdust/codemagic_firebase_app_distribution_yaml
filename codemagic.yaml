@@ -66,9 +66,9 @@ workflows:
         track: internal
         in_app_update_priority: 0
       firebase:
-        firebase_token: Encrypted(Z0FBQUFBQmc4RGJ5QnpNQzVqLVpnYkVsZ1Vmc1NISmhRa3ZId1Mwd3JpU0E5UzNUMDhaamd6WE8tTDZnRmNRSmR3am5RMjFfR3dmNmNJZ19hZTFXTUtmWjFrN0FUbHpBTXpydWVzZF9DdWRSNU52UVU3V3RKRGc4TWVvX1FRemdPNDM2LWtwU0ZNOTJ6Qk1zRHUtVi1iUnE5VG1vZlpuR3doWjhHZS1Xak9tSVZxODdaVnF5cnd2YlpPc01JUmZJU0h5djlrRGFaM0RNWjZiRnVSNkpxVGFFeTUwYUVrSWxYdz09)
+        firebase_token: Encrypted(...)
         android:
-          app_id: 1:576069540849:android:6af0d182c4d0302e530250
+          app_id: x:xxxxxxxxxxxx:android:xxxxxxxxxxxxxxxxxxxxxx
           groups: 
             - androidTesters
 
